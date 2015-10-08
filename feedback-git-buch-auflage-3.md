@@ -80,6 +80,8 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 26 Das sechsundzwanzigste Kapitel (Ab Seite 255)
 
+ * (bstachmann) Im sechsundzwanzigsten Kapitel solle ein Verweis auf diese Feedbackseite stehen.
+
 ## 27 Andere Versionsverwaltungen parallel nutzen (Ab Seite 257)
 
 ## 28 Ein Projekt nach Git migrieren (Ab Seite 269)
