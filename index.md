@@ -19,9 +19,9 @@ Viele Grüße und vielen Dank für das Feedback.
 
 Bjørn & René
 
- * [Feedback zur 3. Auflage](feedback-git-buch-auflage-3.html)
- * [Feedback zur 2. Auflage](feedback-git-buch-auflage-2.html)
- * [Feedback zur 1. Auflage](feedback-git-buch-auflage-1.html)
+ * [Feedback zur 3. Auflage](feedback-git-buch-auflage-3.html) [... auf Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-3.md)
+ * [Feedback zur 2. Auflage](feedback-git-buch-auflage-2.html) [... im Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-2.md)
+ * [Feedback zur 1. Auflage](feedback-git-buch-auflage-1.html) [... im Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-1.md)
 
 ## Sonstiges
 
