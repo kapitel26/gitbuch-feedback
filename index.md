@@ -19,10 +19,13 @@ Viele Grüße und vielen Dank für das Feedback.
 
 Bjørn & René
 
- * [Feedback zur 3. Auflage](feedback-git-buch-auflage-3.html) [... auf Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-3.md)
- * [Feedback zur 2. Auflage](feedback-git-buch-auflage-2.html) [... im Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-2.md)
- * [Feedback zur 1. Auflage](feedback-git-buch-auflage-1.html) [... im Github bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-1.md)
+ * [Feedback zur 3. Auflage](feedback-git-buch-auflage-3.html) [... auf GitHub bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-3.md)
+ * [Feedback zur 2. Auflage](feedback-git-buch-auflage-2.html) [... auf GitHub bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-2.md)
+ * [Feedback zur 1. Auflage](feedback-git-buch-auflage-1.html) [... auf GitHub bearbeiten.](https://github.com/bstachmann/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-1.md)
 
 ## Sonstiges
 
 Wenn Sie uns per Pull-Request (oder Email) Verbesserungsvorschläge zukommen lassen, werde wir diese für die nächste Auflage des Git-Buchs nutzen. Die Hinweisgeber erwähnen wir in der Regel im Vorwort des Buchs. Wenn sie das nicht möchten, lassen Sie uns das bitte wissen. Darüber hinaus gilt für die Inhalte auf dieser Seite die [Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz](LICENSE.html)
+
+
+<a href="https://github.com/bstachmann/gitbuch-feedback"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png"></a>
