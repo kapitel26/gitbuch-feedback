@@ -13,7 +13,7 @@ Dann seid ihr hier richtig. Wir sammeln Input für die kommende Auflage.
 
 Bisher funktionierte das ganz altmodisch per [Email](mailto:git@etosquare.de). Das geht natürlich immer noch. Aber es geht noch viel schicker:
 
-Falls ihr einen **[Github-Account](https://github.com/join)** habt (und wer hat den nicht?), könnt ihr die Feedback-Seiten **direkt im Browser** bearbeiten und uns die Änderungen mit einen Klick als **Pull-Request** zukommen lassen.
+Falls ihr einen **[Github-Account](https://github.com/join)** habt (und wer hat den nicht?), könnt ihr die Feedback-Seiten **direkt im Browser** bearbeiten und uns die Änderungen mit wenigen Klicks als **Pull-Request** zukommen lassen.
 
 Viele Grüße und vielen Dank für das Feedback.
 
