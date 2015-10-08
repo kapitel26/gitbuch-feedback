@@ -4,6 +4,12 @@ author: Bjørn Stachmann
 layout: page
 ---
 
+# Git
+
+## Dezentrale Versionsverwaltung im Team <br/> Grundlagen und Workflows
+
+## 3. Auflage
+
 Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelüberschrift ein. Und dann ab per Pull-Request an uns :-) ([Email](mailto:git@etosquare.de) geht auch)
 
 # Vorwort (Ab Seite i)

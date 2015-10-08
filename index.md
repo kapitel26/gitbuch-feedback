@@ -17,7 +17,11 @@ Falls ihr einen **[Github-Account](https://github.com/join)** habt (und wer hat 
 
 Viele Grüße und vielen Dank für das Feedback.
 
- * [3. Auflage](feedback-git-buch-auflage-3.html)
+Bjørn & René
+
+ * [Feedback zur 3. Auflage](feedback-git-buch-auflage-3.html)
+ * [Feedback zur 2. Auflage](feedback-git-buch-auflage-2.html)
+ * [Feedback zur 1. Auflage](feedback-git-buch-auflage-1.html)
 
 ## Sonstiges
 
