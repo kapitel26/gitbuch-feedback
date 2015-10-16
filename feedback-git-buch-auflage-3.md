@@ -10,7 +10,7 @@ layout: page
 
 ## 3. Auflage
 
-Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelüberschrift ein. Und dann ab per Pull-Request an uns :-) ([Email](mailto:git@etosquare.de) geht auch)
+Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelüberschrift ein. Und dann ab per Pull-Request an uns :-) (Natürlich gerne auch per [Email](mailto:git@etosquare.de))
 
 # Vorwort (Ab Seite i)
 
