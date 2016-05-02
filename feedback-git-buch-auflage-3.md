@@ -44,7 +44,7 @@ Dort steht:
 
 `theirs.txt` ist falsch. Korrekt ist `theirs.png`:
 
-> git show :3:picture.png   >theirs.png
+> `git show :3:picture.png   >theirs.png`
 
 ## 9 Mit Rebasing dieHistorieglätten (Ab Seite 79)
 
@@ -60,7 +60,7 @@ Seite 105. Leserhinweis (Thomas B.)
 
 Hier nutzen wir den `grep`-Befehl, um die Ausgabe des `oneline`-Ausgabe Log-Befehls zu durchsuchen:
 
-> git log --oneline 1.2.3.3 | grep "Gesuchter Kommentar."
+> `git log --oneline 1.2.3.3 | grep "Gesuchter Kommentar."`
 
 Es ist (fast immer) besser, die Historie mit der Option `--grep` des `log`-Befehls zu filtern, weil dabei alle Zeilen des Kommantar durchsucht werden (nicht nur die Titelzeile) und die Option vor der Formatierung der Log-Ausgabe wirkt.
 
@@ -74,7 +74,7 @@ Seite 124 und 125 (Hinweis von Thomas B.):
 
 Die Anführungszeichen sehen im Druck aus wie einfache Anführungszeichen, gemeint sind aber sogenannte Backticks.
 
-> git branch tmp/merge-base `git merge-base master feature`
+> `git branch tmp/merge-base \`git merge-base master feature\``
 
 Anmerkung: In der Bash-Shell kann man Backticks für geschachtelte Befehle nutzen. Die Ausgabe des inneren Befehls (hier `git merge-base`) wird als Argument des Äußeren (hier `git branch`) verwendet.
 
