@@ -74,7 +74,7 @@ Seite 124 und 125 (Hinweis von Thomas B.):
 
 Die Anführungszeichen sehen im Druck aus wie einfache Anführungszeichen, gemeint sind aber sogenannte Backticks.
 
-> `git branch tmp/merge-base \`git merge-base master feature\``
+> `git branch tmp/merge-base \`git merge-base master feature\` `
 
 Anmerkung: In der Bash-Shell kann man Backticks für geschachtelte Befehle nutzen. Die Ausgabe des inneren Befehls (hier `git merge-base`) wird als Argument des Äußeren (hier `git branch`) verwendet.
 
