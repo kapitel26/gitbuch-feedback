@@ -40,7 +40,7 @@ Seite 70 (Hinweis von Thomas B.):
 
 Dort steht:
 
-> git show :3:picture.png   >theirs.txt
+> `git show :3:picture.png   >theirs.txt`
 
 `theirs.txt` ist falsch. Korrekt ist `theirs.png`:
 
