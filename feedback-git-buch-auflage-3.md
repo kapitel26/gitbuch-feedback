@@ -16,6 +16,10 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 # Erste Schritte (Ab Seite 1)
 
+Seite 13, 15 Leserhinweis (Herbert F.):
+
+Für Windows Nutzer ohne Git Kenntnisse kann es schwer sein, die Befehle zum Klonen auf Seite 13 und zum Mergen auf Seite 15 nachzuvollziehen.
+
 ## 1 Grundlegende Konzepte (Ab Seite 1)
 
 ## 2 Erste Schritte mit der Kommandozeile (Ab Seite 9)
