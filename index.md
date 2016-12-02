@@ -13,7 +13,7 @@ Dann seid ihr hier richtig. Wir sammeln Input für die kommende Auflage.
 
 Bisher funktionierte das ganz altmodisch per [Email](mailto:git@etosquare.de). Das geht natürlich immer noch. Aber es geht noch viel schicker: Falls ihr einen **[Github-Account](https://github.com/join)** habt (und wer hat den nicht?), könnt ihr die Feedback-Seiten **direkt im Browser** bearbeiten und uns die Änderungen mit wenigen Klicks als **Pull-Request** zukommen lassen.
 
-** Einfach auf einen der Links und dann auf das Bleistiftsymbol zum Bearbeiten klicken**
+**Einfach auf einen der Links und dann auf das Bleistiftsymbol zum Bearbeiten klicken**
 
  * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-4.md" target="_blank">Feedback zur 4. Auflage auf GitHub bearbeiten.</a>
  * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/gh-pages/feedback-git-buch-auflage-3.md" target="_blank">Feedback zur 3. Auflage auf GitHub bearbeiten.</a>
