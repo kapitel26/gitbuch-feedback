@@ -17,6 +17,16 @@ layout: page
 
 Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelüberschrift ein. Und dann ab per Pull-Request an uns :-) (Natürlich gerne auch per [Email](mailto:git@etosquare.de))
 
+Hallo, 
+das Feedback habe ich auf [Amazon](https://www.amazon.de/review/R1OAOQUVLGUKKT/ref=cm_cr_dp_title?ie=UTF8&ASIN=3864904528&channel=detail-glance&nodeID=299956&store=books) hinterlassen. Kurz gesagt: das Buch ist super!
+
+Die Schreibfehlerkorrekturen habe ich unten eingefügt. Ausserdem wollte ich euch noch darauf hinweisen, dass es auf euerem Blog einige Fehler gibt und nicht die 4. Auflage erwähnt wird. 
+
+Freundliche Grüsse
+Jason Stäuble
+
+jason.staeuble@hotmail.com
+
 # Vorwort (Ab Seite i)
 
 # Erste Schritte (Ab Seite 1)
@@ -56,12 +66,21 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 # Workflows: Entwickeln mit Git
 
 ## 15 Ein Projekt aufsetzen (Ab Seite X)
+Seite 132, erster Satz: Die ersten ~~Teammitgleader~~ **Teammitglieder** können nun [...]
 
 ## 16 Gemeinsam auf einem Branch entwickeln (Ab Seite X)
 
 ## 17 Mit Feature-Branches entwickeln (Ab Seite X)
+Seite 148, erster Absatz: [...] und besser mit einem ~~Feature-Toogle~~ **Feature-Toggle** die Funktionalität zu deaktivieren.
+
+Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]
+
+Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.
 
 ## 18 Mit Forks entwickeln (Ab Seite X)
+Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...]
+
+Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.
 
 # Workflows: Releaseprozess (Ab Seite X)
 
@@ -70,6 +89,7 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 ## 20 Periodisch Releases durchführen (Ab Seite X)
 
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite X)
+Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben.
 
 # Workflows: Repositorys pflegen (Ab Seite X)
 
