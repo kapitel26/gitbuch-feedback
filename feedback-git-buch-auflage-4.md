@@ -56,21 +56,21 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 # Workflows: Entwickeln mit Git
 
 ## 15 Ein Projekt aufsetzen (Ab Seite 123)
-Seite 132, erster Satz: Die ersten ~~Teammitgleader~~ **Teammitglieder** können nun [...]
+Seite 132, erster Satz: Die ersten ~~Teammitgleader~~ **Teammitglieder** können nun [...] @shadyhh
 
 ## 16 Gemeinsam auf einem Branch entwickeln (Ab Seite 135)
 
 ## 17 Mit Feature-Branches entwickeln (Ab Seite 143)
-Seite 148, erster Absatz: [...] und besser mit einem ~~Feature-Toogle~~ **Feature-Toggle** die Funktionalität zu deaktivieren.
+Seite 148, erster Absatz: [...] und besser mit einem ~~Feature-Toogle~~ **Feature-Toggle** die Funktionalität zu deaktivieren.  @shadyhh
 
-Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]
+Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]  @shadyhh
 
-Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.
+Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
 
 ## 18 Mit Forks entwickeln (Ab Seite 163)
-Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...]
+Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...] @shadyhh
 
-Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.
+Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
 
 # Workflows: Releaseprozess (Ab Seite 175)
 
@@ -79,7 +79,7 @@ Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leic
 ## 20 Periodisch Releases durchführen (Ab Seite 185)
 
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite 199)
-Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben.
+Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben. @shadyhh
 
 # Workflows: Repositorys pflegen (Ab Seite 213)
 
@@ -111,10 +111,8 @@ Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** be
 
 > Hallo, 
 > das Feedback habe ich auf [Amazon](https://www.amazon.de/review/R1OAOQUVLGUKKT/ref=cm_cr_dp_title?ie=UTF8&ASIN=3864904528&channel=detail-glance&nodeID=299956&store=books) hinterlassen. Kurz gesagt: das Buch ist super!
-
 > Die Schreibfehlerkorrekturen habe ich unten eingefügt. Ausserdem wollte ich euch noch darauf hinweisen, dass es auf euerem Blog einige Fehler gibt und nicht die 4. Auflage erwähnt wird. 
-
 > Freundliche Grüsse
-> Jason Stäuble
+> Jason Stäuble (@shadyhh)
 
 Vielen Dank für die Korrekturen und das super Feedback auf Amazon! Die Fehler werde ich gleich im  Manuskript korrigieren. Auch wenn es wohl noch ein Weilchen dauert, bis wir die fünfte Auflage herausbringen können.
