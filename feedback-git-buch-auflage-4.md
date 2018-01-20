@@ -105,7 +105,7 @@ Kapitel 29.2 Abhängigkeiten mit Subtrees
 Seite 285, Schritt-für-Schritt: Änderungen in das Modul-Repository übertragen
 Unter "1. Änderungen im Modulverzeichnis separieren" fehlt beim Parameter "--prefix sub" das =-Zeichen, also "--prefix=sub".
 
-Außderdem eine Anregung genau zu diesem Abschnitt: Die schrittweisen Erklärungen sind für das Verständnis sicher hilfreich. Könnte man zusätzlich den Befehl "subtree push" anführen, der die Einzelschritte in sich vereint (sofern ich es richtig verstanden habe) und damit das Extrahieren von Änderungen wesentlich vereinfacht?
+Außerdem eine Anregung genau zu diesem Abschnitt: Die schrittweisen Erklärungen sind für das Verständnis sicher hilfreich. Könnte man zusätzlich den Befehl "subtree push" anführen, der die Einzelschritte in sich vereint (sofern ich es richtig verstanden habe) und damit das Extrahieren von Änderungen wesentlich vereinfacht?
 
 ## 30 Was gibt es sonst noch? (Ab Seite 289)
 
