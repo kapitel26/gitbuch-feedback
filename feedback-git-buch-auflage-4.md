@@ -43,11 +43,18 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 10 Repositorys erstellen, klonen und verwalten (Ab Seite 89)
 
+Seite 92 Oben: rsync wird als Protokoll seit Git 2.8.0 nicht mehr unterstützt. (Böckler)
+
 ## 11 Austausch zwischen Repositorys (Ab Seite 95)
 
 ## 12 Versionen markieren (Ab Seite 105)
 
 ## 13 Tipps und Tricks (Ab Seite 109)
+
+Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den
+Befehlen werden gerade keine verwedet, sondern die Fußzeichen (\',
+U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
+die seit der Korn-Shell das gleiche erledigt. (Böckler)
 
 # Workflows (Ab Seite 117)
 
@@ -70,7 +77,16 @@ Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.
 ## 18 Mit Forks entwickeln (Ab Seite 163)
 Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...] @shadyhh
 
+Seite 167 Unten: Da fehlt im LaTeX-Quelltext wohl ein Backslash, daher
+steht hier textttupstream statt upstream. (Böckler)
+
+Seite 172 Oben: Hier steht 4.1.0, 4.1.1, 4.1.1 statt vermutlich 4.1.0,
+4.1.1, 4.1.2 (Böckler)
+
 Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
+
+Seite 172 Unten: „so leicht und angenehmen wie möglich“ statt vermutlich „so
+leicht und angenehm wie möglich“ (Böckler)
 
 # Workflows: Releaseprozess (Ab Seite 175)
 
