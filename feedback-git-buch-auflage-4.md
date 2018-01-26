@@ -116,7 +116,10 @@ Jo.
 ## 20 Periodisch Releases durchführen (Ab Seite 185)
 
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite 199)
-Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben. @shadyhh
+
+> Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben. @shadyhh
+
+Im Text steht **Nacharbeiten**. Kann man so lassen.
 
 # Workflows: Repositorys pflegen (Ab Seite 213)
 
