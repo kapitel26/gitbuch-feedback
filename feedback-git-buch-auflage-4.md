@@ -89,10 +89,13 @@ Im Text steht **Nacharbeiten**. Kann man so lassen.
 Sieht komisch aus. Habe das bereinigt und dabei gleich die lesbarere Form `--delete` eingesetzt.
 
 ## 18 Mit Forks entwickeln (Ab Seite 163)
-Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...] @shadyhh
 
-Seite 167 Unten: Da fehlt im LaTeX-Quelltext wohl ein Backslash, daher
+> Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...] @shadyhh
+
+> Seite 167 Unten: Da fehlt im LaTeX-Quelltext wohl ein Backslash, daher
 steht hier textttupstream statt upstream. (Böckler)
+
+Stimmt.
 
 Seite 172 Oben: Hier steht 4.1.0, 4.1.1, 4.1.1 statt vermutlich 4.1.0,
 4.1.1, 4.1.2 (Böckler)
