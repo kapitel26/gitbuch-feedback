@@ -43,7 +43,9 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 10 Repositorys erstellen, klonen und verwalten (Ab Seite 89)
 
-Seite 92 Oben: rsync wird als Protokoll seit Git 2.8.0 nicht mehr unterstützt. (Böckler)
+> Seite 92 Oben: rsync wird als Protokoll seit Git 2.8.0 nicht mehr unterstützt. (Böckler)
+
+Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 ## 11 Austausch zwischen Repositorys (Ab Seite 95)
 
