@@ -53,10 +53,10 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 ## 13 Tipps und Tricks (Ab Seite 109)
 
-Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den
-Befehlen werden gerade keine verwedet, sondern die Fußzeichen (\',
-U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
+> Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den Befehlen werden gerade keine verwendet, sondern die Fußzeichen (\',U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
 die seit der Korn-Shell das gleiche erledigt. (Böckler)
+
+Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
 
 # Workflows (Ab Seite 117)
 
@@ -133,9 +133,9 @@ Außerdem eine Anregung genau zu diesem Abschnitt: Die schrittweisen Erklärunge
 
 # Dankeschön
 
-> Hallo, 
+> Hallo,
 > das Feedback habe ich auf [Amazon](https://www.amazon.de/review/R1OAOQUVLGUKKT/ref=cm_cr_dp_title?ie=UTF8&ASIN=3864904528&channel=detail-glance&nodeID=299956&store=books) hinterlassen. Kurz gesagt: das Buch ist super!
-> Die Schreibfehlerkorrekturen habe ich unten eingefügt. Ausserdem wollte ich euch noch darauf hinweisen, dass es auf euerem Blog einige Fehler gibt und nicht die 4. Auflage erwähnt wird. 
+> Die Schreibfehlerkorrekturen habe ich unten eingefügt. Ausserdem wollte ich euch noch darauf hinweisen, dass es auf euerem Blog einige Fehler gibt und nicht die 4. Auflage erwähnt wird.
 > Freundliche Grüsse
 > Jason Stäuble (@shadyhh)
 
