@@ -102,10 +102,12 @@ Jo.
 
 Jo.
 
-Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
+> Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
 
-Seite 172 Unten: „so leicht und angenehmen wie möglich“ statt vermutlich „so
+> Seite 172 Unten: „so leicht und angenehmen wie möglich“ statt vermutlich „so
 leicht und angenehm wie möglich“ (Böckler)
+
+Jo.
 
 # Workflows: Releaseprozess (Ab Seite 175)
 
