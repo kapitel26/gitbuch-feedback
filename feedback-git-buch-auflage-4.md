@@ -80,7 +80,9 @@ War aber doch nur einen Tippfehler. Ich korrigiere das.
 Es ist denkbar, dass Feature-Toggles bei Google erfunden wurden.
 Trotzdem heißen sie **Toggles**.
 
-Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]  @shadyhh
+> Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]  @shadyhh
+
+Im Text steht **Nacharbeiten**. Kann man so lassen.
 
 Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
 
