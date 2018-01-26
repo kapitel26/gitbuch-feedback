@@ -84,7 +84,9 @@ Trotzdem heißen sie **Toggles**.
 
 Im Text steht **Nacharbeiten**. Kann man so lassen.
 
-Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
+> Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
+
+Sieht komisch aus. Habe das bereinigt und dabei gleich die lesbarere Form `--delete` eingesetzt.
 
 ## 18 Mit Forks entwickeln (Ab Seite 163)
 Seite 167, unten: ~~textttupstream~~ **upstream**: Normalerweise bezieht sich der [...] @shadyhh
