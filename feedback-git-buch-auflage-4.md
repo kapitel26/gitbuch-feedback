@@ -74,7 +74,11 @@ War aber doch nur einen Tippfehler. Ich korrigiere das.
 ## 16 Gemeinsam auf einem Branch entwickeln (Ab Seite 135)
 
 ## 17 Mit Feature-Branches entwickeln (Ab Seite 143)
-Seite 148, erster Absatz: [...] und besser mit einem ~~Feature-Toogle~~ **Feature-Toggle** die Funktionalität zu deaktivieren.  @shadyhh
+
+> Seite 148, erster Absatz: [...] und besser mit einem ~~Feature-Toogle~~ **Feature-Toggle** die Funktionalität zu deaktivieren.  @shadyhh
+
+Es ist denkbar, dass Feature-Toggles bei Google erfunden wurden.
+Trotzdem heißen sie **Toggles**.
 
 Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]  @shadyhh
 
