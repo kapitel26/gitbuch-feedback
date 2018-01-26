@@ -95,10 +95,12 @@ Sieht komisch aus. Habe das bereinigt und dabei gleich die lesbarere Form `--del
 > Seite 167 Unten: Da fehlt im LaTeX-Quelltext wohl ein Backslash, daher
 steht hier textttupstream statt upstream. (Böckler)
 
-Stimmt.
+Jo.
 
-Seite 172 Oben: Hier steht 4.1.0, 4.1.1, 4.1.1 statt vermutlich 4.1.0,
+> Seite 172 Oben: Hier steht 4.1.0, 4.1.1, 4.1.1 statt vermutlich 4.1.0,
 4.1.1, 4.1.2 (Böckler)
+
+Jo.
 
 Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
 
