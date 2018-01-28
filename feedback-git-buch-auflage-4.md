@@ -66,8 +66,7 @@ Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
 
 ## 15 Ein Projekt aufsetzen (Ab Seite 123)
 
-@shadyhh
-> Seite 132, erster Satz: Die ersten ~~Teammitgleader~~ **Teammitglieder** können nun [...] 
+> Seite 132, erster Satz: Die ersten ~~Teammitgleader~~ **Teammitglieder** können nun [...] @shadyhh
 
 *Teammitgleader* klingt irgendwie nach *agile leadership*.
 War aber doch nur einen Tippfehler. Ich korrigiere das.
