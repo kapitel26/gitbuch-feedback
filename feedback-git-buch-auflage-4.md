@@ -142,6 +142,8 @@ Jo.
 
 Korrekt. Wohl ein Copy-Paste-Bug unsererseits.
 
+✓ im master f. Auflage 5
+
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite 199)
 
 > Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben. @shadyhh
@@ -210,3 +212,7 @@ Vielen Dank an @UdoHeyn.
 ### Herr Böckler
 
 Vielen Dank auch an Herrn Böckler.
+
+### Hampa Brügger
+
+Vielen Dank für den Hinweis, @hampa-git!
