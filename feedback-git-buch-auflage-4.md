@@ -195,7 +195,7 @@ Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
 
 # Dankeschön
 
-### Jason Stäuble
+### Jason Stäuble [@shadyhh](https://github.com/shadyhh)
 
 > Hallo,
 > das Feedback habe ich auf [Amazon](https://www.amazon.de/review/R1OAOQUVLGUKKT/ref=cm_cr_dp_title?ie=UTF8&ASIN=3864904528&channel=detail-glance&nodeID=299956&store=books) hinterlassen. Kurz gesagt: das Buch ist super!
@@ -205,7 +205,7 @@ Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
 
 Vielen Dank für die Korrekturen und das super Feedback auf Amazon! Die Fehler werde ich gleich im  Manuskript korrigieren. Auch wenn es wohl noch ein Weilchen dauert, bis wir die fünfte Auflage herausbringen können.
 
-### Udo Heyn
+### Udo Heyn  [@UdoHeyn](https://github.com/UdoHeyn)
 
 Vielen Dank an @UdoHeyn.
 
@@ -213,6 +213,6 @@ Vielen Dank an @UdoHeyn.
 
 Vielen Dank auch an Herrn Böckler.
 
-### Hampa Brügger
+### Hampa Brügger [@hampa-git](https://github.com/hampa-git)
 
-Vielen Dank für den Hinweis, @hampa-git!
+Vielen Dank für den Hinweis!
