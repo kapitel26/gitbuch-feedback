@@ -115,9 +115,10 @@ Jo.
 
 ## 20 Periodisch Releases durchführen (Ab Seite 185)
 
->Seite 191 Schritt 1: release-Branch anlegen
-Der Befehl muss richtigerweise: "git checkout -b release develop" lauten
-@hampa
+> Seite 191 Schritt 1: release-Branch anlegen
+> Der Befehl muss richtigerweise: "git checkout -b release develop" lauten @hampa
+
+Korrekt. Wohl ein Copy-Paste-Bug unsererseits.
 
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite 199)
 
