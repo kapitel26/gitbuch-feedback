@@ -47,6 +47,8 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
+✓ Auflage 4, Nachdruck
+
 ## 11 Austausch zwischen Repositorys (Ab Seite 95)
 
 ## 12 Versionen markieren (Ab Seite 105)
@@ -57,6 +59,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 die seit der Korn-Shell das gleiche erledigt. (Böckler)
 
 Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
+
+✓ Auflage 4, Nachdruck
 
 # Workflows (Ab Seite 117)
 
@@ -71,6 +75,9 @@ Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
 *Teammitgleader* klingt irgendwie nach *agile leadership*.
 War aber doch nur einen Tippfehler. Ich korrigiere das.
 
+✓ Auflage 4, Nachdruck
+
+
 ## 16 Gemeinsam auf einem Branch entwickeln (Ab Seite 135)
 
 ## 17 Mit Feature-Branches entwickeln (Ab Seite 143)
@@ -80,13 +87,20 @@ War aber doch nur einen Tippfehler. Ich korrigiere das.
 Es ist denkbar, dass Feature-Toggles bei Google erfunden wurden.
 Trotzdem heißen sie **Toggles**.
 
+✓ Auflage 4, Nachdruck
+
 > Seite 149, nach Abb. 17-4: Wenn ~~Nachbearbeiten~~ **Nachbearbeitungen** notwendig sind, [...]  @shadyhh
 
 Im Text steht **Nacharbeiten**. Kann man so lassen.
 
+⍻
+
 > Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
 
 Sieht komisch aus. Habe das bereinigt und dabei gleich die lesbarere Form `--delete` eingesetzt.
+
+✓ Auflage 4, Nachdruck
+
 
 ## 18 Mit Forks entwickeln (Ab Seite 163)
 
@@ -97,10 +111,15 @@ steht hier textttupstream statt upstream. (Böckler)
 
 Jo.
 
+✓ Auflage 4, Nachdruck
+
+
 > Seite 172 Oben: Hier steht 4.1.0, 4.1.1, 4.1.1 statt vermutlich 4.1.0,
 4.1.1, 4.1.2 (Böckler)
 
 Jo.
+
+✓ Auflage 4, Nachdruck
 
 > Seite 172, nach Überschrift: [...], indem man das Beitragen zum Projekt so leicht und ~~angenehmen~~ **angenehm** wie möglich macht.  @shadyhh
 
@@ -108,6 +127,9 @@ Jo.
 leicht und angenehm wie möglich“ (Böckler)
 
 Jo.
+
+✓ Auflage 4, Nachdruck
+
 
 # Workflows: Releaseprozess (Ab Seite 175)
 
@@ -120,6 +142,8 @@ Jo.
 > Seite 208, Fussnote: Wenn es aber zu ~~Nachbearbeiten~~ **Nachbearbeitungen** beim Cherry-Pick gekommen ist, kann es Probleme geben. @shadyhh
 
 Im Text steht **Nacharbeiten**. Kann man so lassen.
+
+⍻
 
 # Workflows: Repositorys pflegen (Ab Seite 213)
 
@@ -147,9 +171,14 @@ Im Text steht **Nacharbeiten**. Kann man so lassen.
 
 Jo.
 
+✓ Auflage 4, Nachdruck
+
+
 > Außerdem eine Anregung genau zu diesem Abschnitt: Die schrittweisen Erklärungen sind für das Verständnis sicher hilfreich. Könnte man zusätzlich den Befehl "subtree push" anführen, der die Einzelschritte in sich vereint (sofern ich es richtig verstanden habe) und damit das Extrahieren von Änderungen wesentlich vereinfacht? (@UdoHeyn)
 
 Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
+
+✓ Auflage 4, Nachdruck
 
 ## 30 Was gibt es sonst noch? (Ab Seite 289)
 
@@ -159,6 +188,8 @@ Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
 
 # Dankeschön
 
+### Jason Stäuble
+
 > Hallo,
 > das Feedback habe ich auf [Amazon](https://www.amazon.de/review/R1OAOQUVLGUKKT/ref=cm_cr_dp_title?ie=UTF8&ASIN=3864904528&channel=detail-glance&nodeID=299956&store=books) hinterlassen. Kurz gesagt: das Buch ist super!
 > Die Schreibfehlerkorrekturen habe ich unten eingefügt. Ausserdem wollte ich euch noch darauf hinweisen, dass es auf euerem Blog einige Fehler gibt und nicht die 4. Auflage erwähnt wird.
@@ -167,4 +198,10 @@ Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
 
 Vielen Dank für die Korrekturen und das super Feedback auf Amazon! Die Fehler werde ich gleich im  Manuskript korrigieren. Auch wenn es wohl noch ein Weilchen dauert, bis wir die fünfte Auflage herausbringen können.
 
-Vielen Dank auch an @UdoHeyn und an Herrn Böckler.
+### Udo Heyn
+
+Vielen Dank an @UdoHeyn.
+
+### Herr Böckler
+
+Vielen Dank auch an Herrn Böckler.
