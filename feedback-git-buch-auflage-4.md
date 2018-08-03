@@ -53,6 +53,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 ## 12 Versionen markieren (Ab Seite 105)
 
+> Seite 106 Oben: GnuPG (~~Gnu~~ GNU Privacy Guard)
+
 ## 13 Tipps und Tricks (Ab Seite 109)
 
 > Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den Befehlen werden gerade keine verwendet, sondern die Fußzeichen (\',U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
