@@ -51,6 +51,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 ## 11 Austausch zwischen Repositorys (Ab Seite 95)
 
+> Seite 104 Unten: ...sogenannte Refs und ~~Refspecss~~ Refspecs 
+
 ## 12 Versionen markieren (Ab Seite 105)
 
 ## 13 Tipps und Tricks (Ab Seite 109)
