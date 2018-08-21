@@ -62,6 +62,10 @@ Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
 
 ✓ Auflage 4, Nachdruck
 
+> Seite 114 Schritt für Schritt Punk 1:  git rebase --interactive benötigt einen Commit. Gemäss Beispiel wäre das wohl die gemeinsame Wurzel von A und B. Sonst lässt sich das Kommando nicht aufrufen.
+
+> Seite 114 und 115, Kapitel 13.6 - Für einen Einsteiger ist dieses Beispiel eine echte Herausforderung. Gerade hier kann man aber viel lernen, wenn dieses Beispiel detailliert erklärt wird. Heisst: Nach jedem Step (mit Erläuterung der Optionen/Argumente) wird der Graph dargestellt, mit allen Positionen der Branch-Refs und des Heads. Das würde ein gutes Verständnis über das Zusammenspiel der einzelnen Schritte liefern.
+
 # Workflows (Ab Seite 117)
 
 ## 14 Workflow-Enführung (Ab Seite 117)
