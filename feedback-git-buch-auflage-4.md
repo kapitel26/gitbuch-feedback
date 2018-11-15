@@ -57,6 +57,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 > Seite 109 nach Überschrift 13.1: Git ~~ist~~ is like a dog.
 
+✓ Auflage 5
+
 > Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den Befehlen werden gerade keine verwendet, sondern die Fußzeichen (\',U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
 die seit der Korn-Shell das gleiche erledigt. (Böckler)
 
@@ -218,3 +220,7 @@ Vielen Dank auch an Herrn Böckler.
 ### Hampa Brügger [@hampa-git](https://github.com/hampa-git)
 
 Vielen Dank für den Hinweis!
+
+### Gerhard Schroll [@gschroll](https://github.com/gschroll)
+
+Vielen Dank für die Hinweise!
