@@ -55,6 +55,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 > Seite 106 Oben: GnuPG (~~Gnu~~ GNU Privacy Guard)
 
+✓ Auflage 5
+
 ## 13 Tipps und Tricks (Ab Seite 109)
 
 > Seite 109 nach Überschrift 13.1: Git ~~ist~~ is like a dog.
