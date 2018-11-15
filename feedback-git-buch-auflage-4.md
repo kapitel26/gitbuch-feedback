@@ -76,7 +76,7 @@ Ja, das ist eine gute Idee. Die $(...)-Notation ist viel besser zu lesen.
 
 Backlog Auflage 5
 
-*Anmerkung*: `rebase` ohne Paramter aufgerufen, nimmt den Upstream-Branch,
+*Anmerkung*: `rebase` ohne Parameter aufgerufen, nimmt den Upstream-Branch,
 z. B. `origin/master` für `master`. Das heißt, es werden idR. jene Commits rebased,
 die man noch nicht gepushed hat. Das ist eigentlich recht praktisch.
 
