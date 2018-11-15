@@ -55,6 +55,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 ## 13 Tipps und Tricks (Ab Seite 109)
 
+> Seite 109 nach Überschrift 13.1: Git ~~ist~~ is like a dog.
+
 > Seite 113 Mitte: Sie weisen zwar auf Backticks (\`, U+0060) hin, aber in den Befehlen werden gerade keine verwendet, sondern die Fußzeichen (\',U+0027). Das ist vermeidbar, indem Sie einfach die Form $(…) verwenden,
 die seit der Korn-Shell das gleiche erledigt. (Böckler)
 
