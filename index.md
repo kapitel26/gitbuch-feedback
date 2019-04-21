@@ -15,6 +15,7 @@ Bisher funktionierte das ganz altmodisch per [Email](mailto:git@etosquare.de). D
 
 **Einfach auf einen der Links und dann auf das Bleistiftsymbol zum Bearbeiten klicken**
 
+ * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/master/feedback-git-buch-auflage-5.md" target="_blank">Feedback zur 5. Auflage auf GitHub bearbeiten.</a>
  * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/master/feedback-git-buch-auflage-4.md" target="_blank">Feedback zur 4. Auflage auf GitHub bearbeiten.</a>
  * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/master/feedback-git-buch-auflage-3.md" target="_blank">Feedback zur 3. Auflage auf GitHub bearbeiten.</a>
  * <a href="https://github.com/kapitel26/gitbuch-feedback/blob/master/feedback-git-buch-auflage-2.md" target="_blank">Feedback zur 2. Auflage auf GitHub bearbeiten.</a>
