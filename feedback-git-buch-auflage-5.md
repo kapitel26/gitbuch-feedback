@@ -93,9 +93,9 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 30 Abhängigkeiten zwischen Repositorys (Ab Seite )
 
-## 30 Was gibt es sonst noch? (Ab Seite )
+## 31 Was gibt es sonst noch? (Ab Seite )
 
-## 31 Die Grenzen von Git (Ab Seite )
+## 32 Die Grenzen von Git (Ab Seite )
 
 # Anhang (Ab Seite )
 
