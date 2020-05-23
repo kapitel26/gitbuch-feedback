@@ -75,6 +75,8 @@ Das wäre uns sicher nie aufgefallen. Vielen Dank für den Hinweis.
 
 > Seite 104 Unten: ...sogenannte Refs und ~~Refspecss~~ Refspecs 
 
+✓ Auflage 5
+
 ## 12 Versionen markieren (Ab Seite 105)
 
 > Seite 106 Oben: GnuPG (~~Gnu~~ GNU Privacy Guard)
@@ -104,7 +106,7 @@ die man noch nicht gepushed hat. Das ist eigentlich recht praktisch.
 
 > Seite 114 und 115, Kapitel 13.6 - Für einen Einsteiger ist dieses Beispiel eine echte Herausforderung. Gerade hier kann man aber viel lernen, wenn dieses Beispiel detailliert erklärt wird. Heisst: Nach jedem Step (mit Erläuterung der Optionen/Argumente) wird der Graph dargestellt, mit allen Positionen der Branch-Refs und des Heads. Das würde ein gutes Verständnis über das Zusammenspiel der einzelnen Schritte liefern.
 
-Backlog Auflage 5
+Backlog Auflage 6
 
 # Workflows (Ab Seite 117)
 
@@ -137,7 +139,6 @@ Trotzdem heißen sie **Toggles**.
 
 Im Text steht **Nacharbeiten**. Kann man so lassen.
 
-⍻
 
 > Seite 151, vor Überschrift: -d:  Löscht den übergebenen ~~Branc~~ **Branch**.  @shadyhh
 
@@ -186,7 +187,7 @@ Jo.
 
 Korrekt. Wohl ein Copy-Paste-Bug unsererseits.
 
-✓ im master f. Auflage 5
+✓ Auflage 5
 
 ## 21 Mit mehreren aktiven Releases arbeiten (Ab Seite 199)
 
@@ -194,7 +195,6 @@ Korrekt. Wohl ein Copy-Paste-Bug unsererseits.
 
 Im Text steht **Nacharbeiten**. Kann man so lassen.
 
-⍻
 
 # Workflows: Repositorys pflegen (Ab Seite 213)
 
