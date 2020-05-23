@@ -37,6 +37,28 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 7 Branches verzweigen (Ab Seite 59)
 
+Seite 59
+
+>  „In beiden Fällen entstehen Verzweigungen im Graphen der Commit-Historie."
+> Die Aufzählung enthält mehr als 2 Punkte, daher sollte es
+> „In allen Fällen..." heißen. (Benjamin Harms)
+
+Es gibt drei Arten von Informatikern:
+Solche die Zählen könne uns solche, die es nicht können ;-)
+Danke für den Hinweis.
+
+✓ Auflage 6
+
+Seite 64, dritter Absatz
+
+> „Achtung! reset -hard überschreibt Workspace und Stage-Bereich.“
+> Hier ist wohl „reset --hard" gemeint  (Benjamin Harms)
+
+Stimmt.
+
+✓ Auflage 6
+
+
 ## 8 Branches zusammenführen (Ab Seite 67)
 
 ## 9 Mit Rebasing die Historie glätten (Ab Seite 81)
@@ -180,6 +202,16 @@ Im Text steht **Nacharbeiten**. Kann man so lassen.
 
 ## 23 Große Projekte aufteilen (Ab Seite 221)
 
+Seite 225, erster Absatz vs. Seite 240 letzter Absatz
+
+> In beiden Fällen werden die Parameter zum filter-branch-Befehl erläutert.
+> Im ersten Fall wird "-all" erklärt, während an zweiter Stelle "-- --all" erläutert ist.
+>  (Benjamin Harms)
+
+Es soll `--all` heißen.
+
+✓ Auflage 6
+
 ## 24 Kleine Projekte zusammenführen (Ab Seite 229)
 
 ## 25 Lange Historien auslagern (Ab Seite 235)
@@ -191,6 +223,18 @@ Im Text steht **Nacharbeiten**. Kann man so lassen.
 # Mehr über Git (Ab Seite 263)
 
 ## 28 Integration mit Jenkins (Ab Seite 263)
+
+Seite 269, Aufzählung:
+
+> „einen Trigger innerhalb der zentralen Repository-Verwaltung, um das Build nach dem Anlegen oder Ändern eines Pull-Requests zu starten,“
+> Hier müsste es „...um den Build nach dem Anlegen…“ heißen.
+> „einen Job im Build-Server, um das Pull-Request-Build zu bauen, ggf. gibt es dafür auch spezielle Plug-Ins,“
+> Hier müsste es „...um den Pull-Request-Build zu bauen,…“ heißen.
+>
+> (Benjamin Harms)
+
+✓ Auflage 6
+
 
 ## 29 Abhängigkeiten zwischen Repositorys (Ab Seite 275)
 
@@ -208,6 +252,17 @@ Jo.
 Das fehlt. Einen Abschnitt zu `subtree push` werden wir ergänzen.
 
 ✓ Auflage 4, Nachdruck
+
+Seite 286, Zusammenfassung:
+
+> „Alternativ kann man beim Klonen die --recursive benutzen.“
+> Ggf. „die“ weglassen oder „Option“ ergänzen.
+> „Alternativ kann man beim Klonen die Option --recursive benutzen.“
+>
+>  (Benjamin Harms)
+
+Jo.
+
 
 ## 30 Was gibt es sonst noch? (Ab Seite 289)
 
@@ -246,3 +301,8 @@ Vielen Dank für die Hinweise!
 ### [@TheDet](https://github.com/TheDet)
 
 Vielen Dank für den Hinweis!
+
+### Benjamin Harms
+
+Vielen Dank für die Hinweise!
+
