@@ -44,7 +44,7 @@ Seite 59
 > „In allen Fällen..." heißen. (Benjamin Harms)
 
 Es gibt drei Arten von Informatikern:
-Solche die Zählen könne uns solche, die es nicht können ;-)
+Solche die zählen können und solche, die es nicht können ;-)
 Danke für den Hinweis.
 
 ✓ Auflage 6
