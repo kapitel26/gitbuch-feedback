@@ -77,7 +77,24 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 ## 23 Große Projekte aufteilen (Ab Seite )
 
-## 24 Kleine Projekte zusammenführen (Ab Seite )
+## 24 Kleine Projekte zusammenführen (Ab Seite 239)
+
+> Hatte am Wochenende mal zwei lokale Git Repos zusammengeführt, 
+> so wie im Buch ab Seite 239 beschrieben. 
+> Der merge des remote Repos ist fehlgeschlagen mit ".. history nicht gleich 
+> oä" ... das lief dann nur durch mit der Option: --allow-unrelated-history. 
+> Ist die History dann auch vollständig vorhanden? 
+
+Korrekt. Wenn man zwei separate Historien per Merge zusammenführen möchte,
+muss man dies mit ` --allow-unrelated-history` bestätigen.
+
+Die Historien werden bei dieser Operation vollständig erhalten.
+
+Tipp: Man kann ein vergleichbares Ergebnis mit dem neueren Befehl `subtree add` erreichen, z. B.
+
+```bash
+    $ git subtree add --prefix=backend ../backend.git master
+```
 
 ## 25 Lange Historien auslagern (Ab Seite )
 
@@ -101,3 +118,8 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 
 # Dankeschön
 
+# Dankeschön
+
+## Thomas Wenzlaff
+
+Vielen Dank für den Hinweis zu `--allow-unrelated-histories`.
