@@ -88,6 +88,8 @@ Verbesserungsvorschläge tragt ihr einfach unterhalb der passenden Kapitelübers
 Korrekt. Wenn man zwei separate Historien per Merge zusammenführen möchte,
 muss man dies mit ` --allow-unrelated-history` bestätigen.
 
+✓ Auflage 6
+
 Die Historien werden bei dieser Operation vollständig erhalten.
 
 Tipp: Man kann ein vergleichbares Ergebnis mit dem neueren Befehl `subtree add` erreichen, z. B.
